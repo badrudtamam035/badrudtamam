@@ -1,0 +1,2 @@
+# badrudtamam
+Tugas uts.py
